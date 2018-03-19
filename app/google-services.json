@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1004186635596",
+    "firebase_url": "https://hackbattle-b007c.firebaseio.com",
+    "project_id": "hackbattle-b007c",
+    "storage_bucket": "hackbattle-b007c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004186635596:android:4390433ea3b0187b",
+        "android_client_info": {
+          "package_name": "com.example.karmendra.hackbattle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004186635596-5n6ucorq1kevnlir0d2j66uqrbf4chn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karmendra.hackbattle",
+            "certificate_hash": "75e959b3cc37a6ed9cf51f28ae03f8053b237c33"
+          }
+        },
+        {
+          "client_id": "1004186635596-megblnh3nk9aq5rjon8algrpfjdkjrl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB95hd9qQCI0F8-RGGWykPEfBLAgIvdFsY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004186635596-megblnh3nk9aq5rjon8algrpfjdkjrl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
